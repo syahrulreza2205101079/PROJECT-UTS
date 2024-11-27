@@ -8,32 +8,33 @@ Proyek ini bertujuan untuk memperkenalkan praktik budidaya ikan lele sebagai sal
 
 Proyek ini mencakup tiga aspek utama yang dapat diakses oleh pengunjung:
 
-  # 1.Pelatihan Budidaya Ikan Lele
-    Memberikan pelatihan kepada petani ikan dan masyarakat umum mengenai teknik budidaya ikan lele yang efektif dan              berkelanjutan. Pelatihan meliputi:
+# 1.Pelatihan Budidaya Ikan Lele
+  Memberikan pelatihan kepada petani ikan dan masyarakat umum mengenai teknik budidaya ikan lele yang efektif dan       
+  berkelanjutan. Pelatihan meliputi:
     1.Pembuatan kolam yang efisien.
     2.Pengelolaan kualitas air.
     3.Penggunaan pakan yang hemat biaya namun bernutrisi tinggi.
     4.Pencegahan dan pengendalian penyakit ikan.
   
-  # 2.Wisata Edukasi Perikanan
-    Mengajak pengunjung untuk memahami proses budidaya ikan lele melalui tur edukasi di lokasi budidaya. Tur ini             
-    memungkinkan pengunjung belajar langsung tentang ekosistem perikanan air tawar dan pentingnya pengelolaan berkelanjutan.
+# 2.Wisata Edukasi Perikanan
+  Mengajak pengunjung untuk memahami proses budidaya ikan lele melalui tur edukasi di lokasi budidaya. Tur ini             
+  memungkinkan pengunjung belajar langsung tentang ekosistem perikanan air tawar dan pentingnya pengelolaan berkelanjutan.
 
-  # 3.Penelitian dan Pengembangan (R&D)
-    Fokus pada penelitian tentang inovasi dalam metode budidaya ikan lele, termasuk teknologi pengolahan limbah dan   
-    penggunaan energi terbarukan untuk operasional tambak. Kolaborasi dengan akademisi dan peneliti bertujuan untuk 
-    meningkatkan produktivitas sekaligus menjaga kelestarian lingkungan.
+# 3.Penelitian dan Pengembangan (R&D)
+  fokus pada penelitian tentang inovasi dalam metode budidaya ikan lele, termasuk teknologi pengolahan limbah dan   
+  penggunaan energi terbarukan untuk operasional tambak. Kolaborasi dengan akademisi dan peneliti bertujuan untuk 
+  meningkatkan produktivitas sekaligus menjaga kelestarian lingkungan.
 
 # Fitur Utama
-  1.Navigasi yang Mudah: Pengunjung dapat menavigasi konten dengan mudah melalui menu utama dan submenu "Layanan Kami".
-  2.Desain Responsif: Desain web yang optimal untuk berbagai perangkat, memastikan pengalaman pengguna yang nyaman.
-  3.Konten Interaktif: Menyediakan infografis, video, dan galeri foto untuk memperkaya pemahaman pengunjung tentang budidaya     ikan lele.
+  * Navigasi yang Mudah: Pengunjung dapat menavigasi konten dengan mudah melalui menu utama dan submenu "Layanan Kami".
+  * Desain Responsif: Desain web yang optimal untuk berbagai perangkat, memastikan pengalaman pengguna yang nyaman.
+  * Konten Interaktif: Menyediakan infografis, video, dan galeri foto untuk memperkaya pemahaman pengunjung tentang budidaya     ikan lele.
   
 # Teknologi yang Digunakan
-  1.HTML5
-  2.CSS3
-  3.JavaScript untuk animasi interaktif
-  4.Media visual untuk mendukung tampilan yang menarik
+  * HTML5
+  * CSS3
+  * JavaScript untuk animasi interaktif
+  * Media visual untuk mendukung tampilan yang menarik
   
 # Tujuan Proyek
 Proyek ini bertujuan untuk:
